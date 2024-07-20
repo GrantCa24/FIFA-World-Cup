@@ -1,16 +1,20 @@
 # FIFA-World-Cup
-In this Project, I provide some fun insights from 1930~2022 FIFA World Cup.
+[FIFA World Cup 2026](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums) is coming! With Canada hosting matches in Vancouver and Toronto, it is a great opportunity to dive into history before watching the World Cup. By finding trends and patterns, I hope to predict the upcoming World Cup and become more familiar with the overall statistics. In this Project, I provide some fun insights from the FIFA World Cup tournaments held between 1930 and 2022.
 
 ## Data source
-The data source I used in this project is from [The Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup) (© 2023 Joshua C. Fjelstul, Ph.D. CC-BY-SA 4.0 license).
+The data source for this project is from [The Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup) (© 2023 Joshua C. Fjelstul, Ph.D. CC-BY-SA 4.0 license).
 
-## Create six table
-1. tournaments
-2. players_men
-3. teams_men
-4. winners_men
-5. matches_men
-6. goals_men
+## Data cleaning
+Due to the large amount of data, I filtered out observations for **males only** in all csv files except for `tournaments.csv` before importing the data into PostgreSQL. 
+
+## Database Schema
+The following tables were created in PostgreSQL:
+1. `tournaments`
+2. `players_men`
+3. `teams_men`
+4. `winners_men`
+5. `matches_men`
+6. `goals_men`
 
 ## Analysis
 1. When are matches in the knockout stage held during the week?
