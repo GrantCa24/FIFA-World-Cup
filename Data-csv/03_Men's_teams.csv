@@ -1,0 +1,86 @@
+﻿team_id,team_name,team_code,region_name
+T-01,Algeria,DZA,Africa
+T-02,Angola,AGO,Africa
+T-03,Argentina,ARG,South America
+T-04,Australia,AUS,Oceania
+T-05,Austria,AUT,Europe
+T-06,Belgium,BEL,Europe
+T-07,Bolivia,BOL,South America
+T-08,Bosnia and Herzegovina,BIH,Europe
+T-09,Brazil,BRA,South America
+T-10,Bulgaria,BGR,Europe
+T-11,Cameroon,CMR,Africa
+T-12,Canada,CAN,North America
+T-13,Chile,CHL,South America
+T-14,China,CHN,East Asia
+T-16,Colombia,COL,South America
+T-17,Costa Rica,CRI,Central America
+T-18,Croatia,HRV,Europe
+T-19,Cuba,CUB,Caribbean
+T-20,Czech Republic,CZE,Europe
+T-21,Czechoslovakia,CSK,Europe
+T-22,Denmark,DNK,Europe
+T-23,Dutch East Indies,IDN,South East Asia
+T-24,East Germany,DDR,Europe
+T-25,Ecuador,ECU,South America
+T-26,Egypt,EGY,Africa
+T-27,El Salvador,SLV,Central America
+T-28,England,ENG,Europe
+T-30,France,FRA,Europe
+T-31,Germany,DEU,Europe
+T-32,Ghana,GHA,Africa
+T-33,Greece,GRC,Europe
+T-34,Haiti,HTI,Caribbean
+T-35,Honduras,HND,Central America
+T-36,Hungary,HUN,Europe
+T-37,Iceland,ISL,Europe
+T-38,Iran,IRN,Middle East
+T-39,Iraq,IRQ,Middle East
+T-40,Israel,ISR,Middle East
+T-41,Italy,ITA,Europe
+T-42,Ivory Coast,CIV,Africa
+T-43,Jamaica,JAM,Caribbean
+T-44,Japan,JPN,East Asia
+T-45,Kuwait,KWT,Middle East
+T-46,Mexico,MEX,North America
+T-47,Morocco,MAR,Africa
+T-48,Netherlands,NLD,Europe
+T-49,New Zealand,NZL,Oceania
+T-50,Nigeria,NGA,Africa
+T-51,North Korea,PRK,East Asia
+T-52,Northern Ireland,NIR,Europe
+T-53,Norway,NOR,Europe
+T-54,Panama,PAN,Central America
+T-55,Paraguay,PRY,South America
+T-56,Peru,PER,South America
+T-57,Poland,POL,Europe
+T-58,Portugal,PRT,Europe
+T-59,Qatar,QAT,Middle East
+T-60,Republic of Ireland,IRL,Europe
+T-61,Romania,ROU,Europe
+T-62,Russia,RUS,"Europe, Asia"
+T-63,Saudi Arabia,SAU,Middle East
+T-64,Scotland,SCO,Europe
+T-65,Senegal,SEN,Africa
+T-66,Serbia,SRB,Europe
+T-67,Serbia and Montenegro,SCG,Europe
+T-68,Slovakia,SVK,Europe
+T-69,Slovenia,SVN,Europe
+T-70,South Africa,ZAF,Africa
+T-71,South Korea,KOR,East Asia
+T-72,Soviet Union,SUN,"Europe, Asia"
+T-73,Spain,ESP,Europe
+T-74,Sweden,SWE,Europe
+T-75,Switzerland,CHE,Europe
+T-77,Togo,TGO,Africa
+T-78,Trinidad and Tobago,TTO,Caribbean
+T-79,Tunisia,TUN,Africa
+T-80,Turkey,TUR,"Europe, Asia"
+T-81,Ukraine,UKR,Europe
+T-82,United Arab Emirates,ARE,Middle East
+T-83,United States,USA,North America
+T-84,Uruguay,URY,South America
+T-85,Wales,WAL,Europe
+T-86,West Germany,DEU,Europe
+T-87,Yugoslavia,YUG,Europe
+T-88,Zaire,COD,Africa
